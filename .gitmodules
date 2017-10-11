@@ -1,0 +1,6 @@
+[submodule "inner-repo-1"]
+	path = inner-repo-1
+	url = ./inner-repo-1
+[submodule "inner-repo-2"]
+	path = inner-repo-2
+	url = ./inner-repo-2
